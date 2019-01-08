@@ -10,5 +10,9 @@ Dependencies:
 - pyproj
     - pip install pyproj
     - https://pypi.org/project/pyproj/
+    
+Requires a Level 1 FTP account that can be obtained by following the guidelines here: http://chain.physics.unb.ca/chain/pages/data_download
+
+
         
   
